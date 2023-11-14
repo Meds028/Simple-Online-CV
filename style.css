@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#main{
+    position: relative;
+}
+
+.two-by-two-pic{
+    background-color: black;
+    padding: 2px;
+    height: 160px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+img.location-icon{
+    height: 20px;
+}
+
+h3.title-xp{
+    font-weight: normal;
+}
+
+.personal-sign{
+    height: 100px;
+    position: relative;
+    top: 70px;
+    right: 10px;
+
+}
+
+#sign{
+    position: absolute;
+    left: 80%; 
+    
+}
+
+.underline{
+    position: relative;
+    top: 20px;
+}
